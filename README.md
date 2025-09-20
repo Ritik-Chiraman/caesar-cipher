@@ -1,4 +1,4 @@
-This is a python program that implements the caesar cipher algorith for both encryption and decryption
+This is a python program that implements the caesar cipher algorithm for both encryption and decryption
 ## Usage
 
 1. Run the program.
